@@ -1,0 +1,4 @@
+set_io scl A5
+set_io mosi A2
+set_io ss1 B4 
+set_io ss2 B7

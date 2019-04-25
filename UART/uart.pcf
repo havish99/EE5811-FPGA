@@ -1,0 +1,3 @@
+set_io clk_50m R9
+set_io tx A5
+set_io tx_busy A2
